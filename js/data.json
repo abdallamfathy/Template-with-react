@@ -1,0 +1,100 @@
+  {
+  "works" : [
+    {
+      "id" : 1,
+      "icon_name": "icon fa fa-icons fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id" : 2,
+      "icon_name": "icon fa fa-layer-group fa-2x",
+      "title": "Mobile Develop",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id" : 3,
+      "icon_name": "icon fa fa-paint-brush fa-2x",
+      "title": "Mobile design",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio" : [
+    {
+      "id":1,
+      "image": "/images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id":2,
+      "image": "/images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id":3,
+      "image": "/images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id":4,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id":5,
+      "image": "/images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id":6,
+      "image": "/images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id":7,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id":8,
+      "image": "/images/Portfolio/portfolio-img8.jpg"
+    }
+  ] ,
+  "social" : [
+    {
+      "id": 1,
+      "icon" : "fab fa-facebook-f fa-lg",
+      "title" : "Follow Me on",
+      "body" : "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon" : " fab fa-twitter fa-lg",
+      "title" : "Tweet Me on",
+      "body" : "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon" : "icon fab fa-pinterest fa-lg",
+      "title" : "Pin Me on",
+      "body" : "Social Pinterest"
+    }
+  ],
+
+  "work" : [
+    {
+      "id": 1,
+      "title": "Bootstrap",
+      "perc": "100%",
+      "spanPerc": 1
+
+    },
+    {
+      "id": 2,
+      "title": "Css",
+      "perc": "90%",
+      "spanPerc": 2
+
+    },
+    {
+      "id": 3,
+      "title": "Jquery",
+      "perc": "80%",
+      "spanPerc": 3
+    }
+  ]
+}
