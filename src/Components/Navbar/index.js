@@ -13,7 +13,7 @@ const Navbar =() =>{
 
 
                     <UlList>
-                        <ListItem><Links to="/">Home</Links></ListItem>
+                        <ListItem><Links to="/Template-with-react/">Home</Links></ListItem>
                         <ListItem><Anchor href="#">Work</Anchor></ListItem>
                         <ListItem><Anchor href="#">Portfolio</Anchor></ListItem>
                         <ListItem><Anchor href="#">Resume</Anchor></ListItem>
