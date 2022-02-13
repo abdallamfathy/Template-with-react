@@ -15,7 +15,7 @@ class App extends Component {
                 <Routes>
 
 
-                        <Route path="/" element={<Index />}/>
+                        <Route path="/Template-with-react/" element={<Index />}/>
                         <Route path="/contact" element={<Contact />}/>
             </Routes>
 
