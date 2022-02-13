@@ -2,8 +2,8 @@ import React , {Component} from 'react';
 import Home from './../Home';
 import About from './../About';
 import SocialMedia from './../SocialMedia';
-import Profile from './../Profile';
-import Portfolio from './../Portfolio';
+import Profile from '../Profile';
+import Portfolio from '../Portfolio';
 import Work from './../Work';
 import Footer from './../Footer';
 

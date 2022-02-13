@@ -1,11 +1,10 @@
 import React from 'react';
+import {FooterSection,Paragraph} from './style'
 const Footer =() =>{
     return(
-        <div>
-            <p>
-                footer
-            </p>
-        </div>
+        <FooterSection >
+            <Paragraph> copyright &copy; 2018 by ultra profile </Paragraph>
+        </FooterSection>
     )
 }
 

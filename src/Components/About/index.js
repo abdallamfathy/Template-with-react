@@ -1,11 +1,28 @@
 import React from 'react';
-const About =() =>{
+import {Span,Info,AboutInfo,Anchor,InfoDesc,InfoTitle,InfoDir,Container} from './style'
+
+
+
+const About = () =>{
     return(
-        <div>
-            <p>
-                About
-            </p>
-        </div>
+        <AboutInfo >
+            <Container>
+                <Info >
+                    <InfoTitle ><Span>This is</Span> Me</InfoTitle>
+                    <InfoDir >Creative Director</InfoDir>
+                    <InfoDesc >
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est <Anchor
+                        href="#">explicabo</Anchor> maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus
+                        dolorum. Possimus nisi cupiditate ad veritatis?
+                    </InfoDesc>
+                    <InfoDesc >
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est explicabo maxime quibusdam
+                        quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad
+                        veritatis?
+                    </InfoDesc>
+                </Info>
+            </Container>
+        </AboutInfo>
     )
 }
 
